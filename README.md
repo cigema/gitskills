@@ -1,3 +1,3 @@
 # gitskills
 hi
-master1
+merge1
